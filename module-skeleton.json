@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-three-way-matching-dart-desktop",
+  "capabilityKey": "liberusoftware/module-accounting-three-way-matching",
+  "presentation": "dart-desktop",
+  "package": "module_accounting_three_way_matching_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/accounting/nextjs/three-way-matching.md",
+  "presentationPlan": "projects/accounting/features/three-way-matching.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
